@@ -18,3 +18,13 @@ The JSON file should be created if it does not exist.
 Use the native file system module of your programming language to interact with the JSON file.
 Do not use any external libraries or frameworks to build this project.
 Ensure to handle errors and edge cases gracefully.
+
+
+IF YOU WANT RUN THE PROJECT 
+* MAKES SURE TO HAVE INSTALLED MAVEN AND JDK IN YOUR SYSTEM AND RUN THE .JAR FILE ON YOUR CMD PROMPT
+   
+
+
+
+
+
